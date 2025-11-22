@@ -19,3 +19,4 @@ InvoiceNo, CustomerID, Category, Quantity, Price, InvoiceDate, ShoppingMall
 customer_data.csv — contains customer demographic information such as:
 
 CustomerID, Gender, Age, PaymentMethod
+
